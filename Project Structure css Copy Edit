@@ -1,0 +1,10 @@
+clinical-notes-summarizer/
+├── app.py
+├── summarize.py
+├── requirements.txt
+├── download_model.py
+├── models/
+│   └── [Download GPT4All + Embedding models here]
+├── documents/
+│   └── example_notes.txt
+├── README.md
